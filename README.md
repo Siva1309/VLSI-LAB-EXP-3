@@ -27,6 +27,7 @@ vivado 2023.1 software.
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
     
 **Logic Diagram**
+
 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
