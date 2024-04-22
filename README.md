@@ -1,4 +1,4 @@
-![image](https://github.com/Siva1309/VLSI-LAB-EXP-3/assets/166374356/483b5f27-bc17-43ad-aa62-0bb1da6f456f)SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+
 **AIM: **
  To simulate and synthesis multiplier using Xilinx ISE.
 
