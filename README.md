@@ -31,7 +31,7 @@ vivado 2023.1 software.
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
 
 VERILOG CODE:
-
+```
 module ha(a,b,sum,carry);
 input a,b;
 output sum,carry;
