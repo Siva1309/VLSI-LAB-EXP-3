@@ -1,6 +1,6 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER 
+**SIMULATION AND IMPLEMENTATION OF MULTIPLIER** 
 
-AIM:
+***AIM:**
  To simulate and synthesis multiplier using vivado.
 
 **APPARATUS REQUIRED:**
@@ -25,6 +25,7 @@ vivado 2023.1 software.
 8. Run Simulation: Start the simulation by clicking on the "Run" button in the simulation window.
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
+    
 **Logic Diagram**
 2 bit Multiplier
 
@@ -50,7 +51,7 @@ and g4(w4,a[1],b[0]);
 ha ha1(w1,w2,c[1],w3);
 ha ha2(w3,w4,c[2],c[3]);
 endmodule
-
+```
 
 OUTPUT WAVEFORM:
 
@@ -62,7 +63,7 @@ OUTPUT WAVEFORM:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 VERILOG CODE:
-
+```
 module halfadder(a,b,s,c);
 input a,b;
 output s,c;
@@ -99,7 +100,7 @@ fa fa6(w[13],x[1]&y[3],w[15],z[4],w[16]);
 fa fa7(w[14],x[2]&y[3],w[16],z[5],w[17]);
 fa fa8(w[11],x[3]&y[3],w[17],z[6],z[7]);
 endmodule
-
+```
 
 OUTPUT WAVEFORM:
 
