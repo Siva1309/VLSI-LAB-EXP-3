@@ -1,6 +1,6 @@
 **SIMULATION AND IMPLEMENTATION OF MULTIPLIER** 
 
-***AIM:**
+**AIM:**
  To simulate and synthesis multiplier using vivado.
 
 **APPARATUS REQUIRED:**
