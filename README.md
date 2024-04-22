@@ -7,7 +7,7 @@ AIM:
 vivado 2023.1 software.
 
 **PROCEDURE:**
-```
+
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
